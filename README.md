@@ -1,2 +1,9 @@
 # cloud-dev-ai
-Fifa
+
+Proyecto fullstack con frontend en React y backend en Express.
+
+## Estructura
+
+- `/src` - Frontend (React)
+- `/backend` - Backend (Express)
+- `/public` - Archivos públicos (estáticos)
